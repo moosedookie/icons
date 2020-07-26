@@ -1,6 +1,6 @@
 # Random icons
 
-**Some created by me others gathered from various places.**
+**Some created by me others gathered from various places.**<br>
 Icons are broken into folders based on type.
  - ICO
  - PNG
